@@ -15,9 +15,9 @@
   <Description DefaultValue="Esporta la mail selezionata come file .eml con nome basato su data, azienda e oggetto." />
 
   <!-- SOSTITUIRE https://TUO-DOMINIO con l'indirizzo reale dove ospiterai i file -->
-  <IconUrl DefaultValue="https://TUO-DOMINIO/assets/icon-64.png" />
-  <HighResIconUrl DefaultValue="https://TUO-DOMINIO/assets/icon-128.png" />
-  <SupportUrl DefaultValue="https://TUO-DOMINIO/" />
+  <IconUrl DefaultValue="https://grasiento.github.io/assets/icon-64.png" />
+  <HighResIconUrl DefaultValue="https://grasiento.github.io/assets/icon-128.png" />
+  <SupportUrl DefaultValue="https://grasiento.github.io/" />
 
   <AppDomains>
     <AppDomain>https://grasiento.github.io</AppDomain>
@@ -36,7 +36,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://TUO-DOMINIO/functions.html" />
+        <SourceLocation DefaultValue="https://grasiento.github.io/functions.html" />
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -91,12 +91,12 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://TUO-DOMINIO/assets/icon-16.png" />
-        <bt:Image id="Icon.32x32" DefaultValue="https://TUO-DOMINIO/assets/icon-32.png" />
-        <bt:Image id="Icon.80x80" DefaultValue="https://TUO-DOMINIO/assets/icon-80.png" />
+        <bt:Image id="Icon.16x16" DefaultValue="https://grasiento.github.io/assets/icon-16.png" />
+        <bt:Image id="Icon.32x32" DefaultValue="https://grasiento.github.io/assets/icon-32.png" />
+        <bt:Image id="Icon.80x80" DefaultValue="https://grasiento.github.io/assets/icon-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Functions.Url" DefaultValue="https://TUO-DOMINIO/functions.html" />
+        <bt:Url id="Functions.Url" DefaultValue="https://grasiento.github.io/functions.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Archivia Mail" />
