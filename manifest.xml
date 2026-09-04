@@ -20,7 +20,7 @@
   <SupportUrl DefaultValue="https://TUO-DOMINIO/" />
 
   <AppDomains>
-    <AppDomain>https://TUO-DOMINIO</AppDomain>
+    <AppDomain>https://grasiento.github.io</AppDomain>
   </AppDomains>
 
   <Hosts>
